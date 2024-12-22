@@ -8,6 +8,7 @@ Halo! Saya adalah seorang Web Developer yang memiliki semangat tinggi dalam menc
 📜 HTML, 🎨 CSS, 🚀 TailwindCSS
 🌟 JavaScript, 🔷 TypeScript
 ⚛️ React.js, 🌐 Express.js, 🌳 Node.js
+
 ✨ Apa yang saya tawarkan?
 
 Desain antarmuka yang modern dan responsif 📱💻
